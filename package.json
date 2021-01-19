@@ -1,10 +1,13 @@
 {
   "name": "vue-prevent-wheel-transitions",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A vue plugin for preventing the screen transitions fired by wheeling",
   "main": "index.js",
   "types": "index.d.ts",
-  "repository": "git@github.com.minericefield:minericefield/vue-prevent-wheel-transitions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minericefield/vue-prevent-wheel-transitions"
+   },
   "author": "minericefield <minericefield@gmail.com>",
   "license": "MIT",
   "private": false,
