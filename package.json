@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com.minericefield:minericefield/vue-prevent-wheel-transitions",
   "author": "minericefield <minericefield@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.3",
+    "vue": "^2.6.12"
+  }
 }
